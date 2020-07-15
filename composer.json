@@ -1,12 +1,12 @@
 {
-    "name": "actionm/laravel-unitpay",
+    "name": "dnsoftware/laravel-unitpay",
     "description": "UnitPay payments for Laravel",
     "keywords": [
         "laravel-unitpay",
         "unitpay",
         "payments"
     ],
-    "homepage": "https://github.com/actionm/laravel-unitpay",
+    "homepage": "https://github.com/dnsoftware/laravel-unitpay",
     "license": "MIT",
     "authors": [
         {
