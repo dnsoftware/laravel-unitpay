@@ -8,6 +8,7 @@
     ],
     "homepage": "https://github.com/dnsoftware/laravel-unitpay",
     "license": "MIT",
+    "version": "2.0.1",
     "authors": [
         {
             "name": "actionm",
