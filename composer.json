@@ -1,5 +1,5 @@
 {
-    "name": "dnsoftware/laravel-unitpay",
+    "name": "dnsoftware/laravel-unitpay", 
     "description": "UnitPay payments for Laravel",
     "keywords": [
         "laravel-unitpay",
@@ -8,7 +8,7 @@
     ],
     "homepage": "https://github.com/dnsoftware/laravel-unitpay",
     "license": "MIT",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "authors": [
         {
             "name": "actionm",
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=5.6.4",
-        "laravel/framework": "~7.11",
+        "laravel/framework": "~8.0",
         "guzzlehttp/guzzle": "~6.2"
     },
     "require-dev": {
